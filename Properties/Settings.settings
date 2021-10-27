@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ControlProcess.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="host1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="database1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="user1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="password1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="port1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="host2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="database2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="user2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="password2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="port2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="host3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="database3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="user3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="password3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="port3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="Setting1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Empty</Value>
+    </Setting>
+    <Setting Name="opacityBar" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

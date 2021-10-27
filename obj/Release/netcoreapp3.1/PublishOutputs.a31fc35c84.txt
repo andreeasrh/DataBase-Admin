@@ -1,0 +1,15 @@
+C:\Users\horva\Desktop\DataBase Admin\ControlProcess.exe
+C:\Users\horva\Desktop\DataBase Admin\ControlProcess.dll
+C:\Users\horva\Desktop\DataBase Admin\ControlProcess.deps.json
+C:\Users\horva\Desktop\DataBase Admin\ControlProcess.runtimeconfig.json
+C:\Users\horva\Desktop\DataBase Admin\ControlProcess.pdb
+C:\Users\horva\Desktop\DataBase Admin\BouncyCastle.Crypto.dll
+C:\Users\horva\Desktop\DataBase Admin\Google.Protobuf.dll
+C:\Users\horva\Desktop\DataBase Admin\K4os.Compression.LZ4.dll
+C:\Users\horva\Desktop\DataBase Admin\K4os.Compression.LZ4.Streams.dll
+C:\Users\horva\Desktop\DataBase Admin\K4os.Hash.xxHash.dll
+C:\Users\horva\Desktop\DataBase Admin\MySql.Data.dll
+C:\Users\horva\Desktop\DataBase Admin\Ubiety.Dns.Core.dll
+C:\Users\horva\Desktop\DataBase Admin\Zstandard.Net.dll
+C:\Users\horva\Desktop\DataBase Admin\Renci.SshNet.dll
+C:\Users\horva\Desktop\DataBase Admin\SshNet.Security.Cryptography.dll
